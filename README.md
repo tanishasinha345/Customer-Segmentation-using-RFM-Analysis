@@ -188,5 +188,4 @@ Implemented RFM segmentation to:
 ## 🙏 Acknowledgments
 
 Dataset: UCI Machine Learning Repository - Online Retail II
-Inspiration: RFM analysis best practices from Clevertap, Optimove, and marketing analytics literature
 Tools: Python, Power BI, and the amazing open-source community
